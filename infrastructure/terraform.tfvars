@@ -1,0 +1,5 @@
+aws_region        = "us-east-1"
+aws_profile       = "aws"
+aws_instance_type = "t2.micro"
+aws_public_key    = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDyeei7GqZsr693Y4OxRztnBbYJNPjaQStwhtC2sM62O37sdznkby54is03KYssCqF9Qdmgo0Cbvz8+quh1JE6HAVWjqyfqG6bktBK98MfaNc03Y6tTU9iU7Z9pH9XaVEvx7JhPg05zYtTtMUlU36bZpJE+UgwjBBhNf+S0L8iN93BedNe/9AqYQO+rEeqrtCJGm5sHyMUyZDmCHXtq50ALeVUa22kSs6Uf+3q0ClMcH6MZMIf8zJsj+GhpTfplKEnxCDFjsgoxZd9rm+Qo1z51HZMqw1X1Q3lsAJZZVe+Zaun4HunYyQJuN8NxfB8joQqL+lTSIZkPYCkWwq2j9RJZ liunx-dev@DESKTOP-5RCPJ2O"
+prefix            = "ecommerce"
